@@ -12,8 +12,8 @@ Sleep quality is one of the most challenging modelling targets in QS research, d
 
 Observational n-of-1 QS projects pose a number of specific challenges: 
 
-* Heterogeneous data sources with many missing values
-* Few observations and many features, resulting in overparameterised models
+* Heterogeneous data sources with many missing values.
+* Few observations and many features, resulting in overparameterised models.
 * Systems composed of dynamic feedback loops that exacerbate human biases. 
 
 This project addressed these problems through two main contributions: 
