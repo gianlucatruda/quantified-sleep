@@ -6,7 +6,7 @@ An exploration of techniques for observational n-of-1 studies.
 
 ![overview diagram](img/QuantifiedSleepOverview.jpg)
 
-This paper combines techniques from across disciplines and applies them in an observational n-of-1 Quantified-Self (QS) study to build a descriptive model of sleep quality. A total of 472 days of the author's sleep data, collected nightly with an Oura ring, were combined with a variety of lifestyle, environmental, and psychological data harvested from multiple sensors and manual logs.
+This paper combines techniques from across disciplines and applies them in an observational n-of-1 Quantified-Self (QS) study to build a descriptive model of sleep quality. A total of 472 days of my sleep data, collected nightly with an Oura ring, were combined with a variety of lifestyle, environmental, and psychological data harvested from multiple sensors and manual logs.
 
 Observational n-of-1 QS projects pose a number of specific challenges: heterogeneous data sources with many missing values; few observations and many features, resulting in overparameterised models; and systems composed of dynamic feedback loops that exacerbate human biases. This paper directly addresses these problems through two main contributions: 
 
