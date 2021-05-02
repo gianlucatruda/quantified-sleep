@@ -40,17 +40,13 @@ In `02_analysis.ipynb`, relevant statistical analyses for outliers, normality, (
 
 ### Missing data imputation
 
-In `03_imputation.ipynb`, the missing data was overcome using a combination of knowledge-based and statistical techniques, including several multivariate imputation algorithms. 
-
-Regularised linear algorithms (Lasso and Ridge) performed the best with imputed data, particularly for the matrix factorisation, KNN, MICE, iterative SVD, and univariate imputation strategies. The use of imputation saved hundreds of observations from being discarded and improved overall performance of all the algorithms except the plain Decision Tree.
+In `03_imputation.ipynb`, the missing data was overcome using a combination of knowledge-based and statistical techniques, including several multivariate imputation algorithms. The use of imputation saved hundreds of observations from being discarded and improved overall performance of the algorithms.
 
 ![](img/missing_data.png)
 
 ### Collapsing time series to i.i.d. observations
 
 "Markov unfolding" was used as a technique for collapsing the time series into a collection of independent observations for modelling, thus incorporating historical data. This added lagged copies of features to each observation to incorporate values from recent history for each engineered feature. 
-
-Markov unfolding improved the predictive performance of Lasso dramatically, but for other algorithms the improvement was less pronounced. This was likely because the benefit of the additional information traded off against the added burden of much higher dimensionality. Lasso likely performed best because L1 regularisation allowed it to effectively sift through the greater number of features. 
 
 ![](img/markov_unfolding.svg)
 
