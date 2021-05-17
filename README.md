@@ -1,10 +1,10 @@
-# Quantified Sleep
+# Quantified Sleep [![arxiv badge](https://img.shields.io/badge/arXiv-2004.15004-red)](https://arxiv.org/abs/2105.06811)
 
 *Machine learning techniques for observational n-of-1 studies*
 
 ---
 
-Read [the full paper here](https://drive.google.com/file/d/1BmAORUmRhqVx_BOM9S_ln9NTv6uJg5oN/view?usp=sharing).
+Read the [full paper PDF on arXiv](https://arxiv.org/pdf/2105.06811.pdf).
 
 ## Abstract
 
