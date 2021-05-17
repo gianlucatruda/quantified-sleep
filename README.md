@@ -1,4 +1,4 @@
-# Quantified Sleep [![arxiv badge](https://img.shields.io/badge/arXiv-2004.15004-red)](https://arxiv.org/abs/2105.06811)
+# Quantified Sleep [![arxiv badge](https://img.shields.io/badge/arXiv-2105.06811-green)](https://arxiv.org/abs/2105.06811)
 
 *Machine learning techniques for observational n-of-1 studies*
 
