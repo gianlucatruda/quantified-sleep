@@ -69,4 +69,21 @@ By repeatedly re-training the Lasso model on different subsets of the dataset, d
 
 ![SHAP results](img/shap_results.svg)
 
+## Citing this work
 
+MLA:
+```
+Gianluca Truda. "Quantified Sleep: Machine learning techniques for observational n-of-1 studies." (2021). 
+```
+
+BibTeX:
+```bibtext
+@misc{truda2021quantified,
+    title={Quantified Sleep: Machine learning techniques for observational n-of-1 studies},
+    author={Gianluca Truda},
+    year={2021},
+    eprint={2105.06811},
+    archivePrefix={arXiv},
+    primaryClass={q-bio.QM}
+}
+```
