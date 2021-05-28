@@ -77,13 +77,12 @@ Gianluca Truda. "Quantified Sleep: Machine learning techniques for observational
 ```
 
 BibTeX:
-```bibtext
-@misc{truda2021quantified,
-    title={Quantified Sleep: Machine learning techniques for observational n-of-1 studies},
-    author={Gianluca Truda},
-    year={2021},
-    eprint={2105.06811},
-    archivePrefix={arXiv},
-    primaryClass={q-bio.QM}
+```bibtex
+@article{truda2021quantified,
+  title={Quantified Sleep: Machine learning techniques for observational n-of-1 studies},
+  author={Truda, Gianluca},
+  journal={arXiv preprint arXiv:2105.06811},
+  year={2021}
 }
+
 ```
